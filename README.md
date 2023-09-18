@@ -1,2 +1,2 @@
 # github-first-proj
-first git repo
+This my first git repository . 
