@@ -1,2 +1,3 @@
 # github-first-proj
-This my first git repository . 
+This my first Git repository . 
+Author - siddharth shanakr moharana
